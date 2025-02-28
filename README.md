@@ -144,9 +144,6 @@ Click the "Delete" button next to the container you want to remove.
 |   Web Browser     |       |   Flask App       |       |   Docker Daemon   |
 +-------------------+       +-------------------+       +-------------------+
 
-
-```
-+-------------------+       +-------------------+       +-------------------+
 |   Web Browser     |       |   Flask App       |       |   Docker Daemon   |
 +-------------------+       +-------------------+       +-------------------+
 
