@@ -146,16 +146,6 @@ Click the "Delete" button next to the container you want to remove.
 
 
 ```
-
-### 3.The architecture has been updated
-
-```
-+-------------------+       +-------------------+       +-------------------+
-|   User Interface  | <---> |   Flask Backend   | <---> |   Docker Engine   |
-+-------------------+       +-------------------+       +-------------------+
-        |                           |                           |
-        | (HTML/CSS/JS)              | (HTTP Requests)           | (Docker API)
-        v                           v                           v
 +-------------------+       +-------------------+       +-------------------+
 |   Web Browser     |       |   Flask App       |       |   Docker Daemon   |
 +-------------------+       +-------------------+       +-------------------+
